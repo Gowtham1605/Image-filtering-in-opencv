@@ -1,4 +1,4 @@
-# Zero - 03: Image Filtering using OpenCV
+# Image Filtering using OpenCV
 
 ## Overview
 
